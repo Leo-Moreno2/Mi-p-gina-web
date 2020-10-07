@@ -25,7 +25,7 @@ Por ejempolo, un código sería:
 
 Las hojas de estilo **CSS** nos permiten personalizar el espacio de nuestras páginas web. Por ehjemplo:
 
-```CSS
+```css
 body{
  background-color: black;
  color: white;
